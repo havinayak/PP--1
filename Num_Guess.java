@@ -1,7 +1,7 @@
 
 
 import java.util.*;
-public class Demo{
+public class Num_Guess{
 public static void main(String[] args) {
         int maxrange = 100;
         int minrange = 1;
